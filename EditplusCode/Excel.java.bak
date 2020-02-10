@@ -1,0 +1,7 @@
+class Excel implements OfficeAble 
+{
+	public  void start(String[] args) 
+	{
+		System.out.println("excel...start...");
+	}
+}
